@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552403182679",
+    "project_id": "reactnativepushnotif-8c697",
+    "storage_bucket": "reactnativepushnotif-8c697.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552403182679:android:f8eaf3818b67b2cf166f12",
+        "android_client_info": {
+          "package_name": "com.apppush"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUg4LIPQj4WGhKG04mHWqYXNkLjfkzAA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
